@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Noise Watch",
-      "description": "Noise Watch",
+      "name": "Fossil Watch",
+      "description": "Fossil Watch",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIi0mPtW80iNCugRN8rzdJvhYwRXoqJpnx5mg1KpuuDvdlEvuV0lnCCs4vTyEfEXPQi-iEZHEF&usqp=CAc",
       "price": 3499
     },
@@ -117,12 +117,102 @@
     {
       "product": {
         "id": 1,
-        "name": "Noise Watch",
-        "description": "Noise Watch",
+        "name": "Fossil Watch",
+        "description": "Fossil Watch",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIi0mPtW80iNCugRN8rzdJvhYwRXoqJpnx5mg1KpuuDvdlEvuV0lnCCs4vTyEfEXPQi-iEZHEF&usqp=CAc",
         "price": 3499
       },
       "id": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "kumar patil",
+      "email": "sagarpatil61935@gmail.com",
+      "username": "kumar",
+      "password": "",
+      "confirmPassword": "",
+      "id": 1
+    },
+    {
+      "name": "kumar patil",
+      "email": "sagarpatil61935@gmail.com",
+      "username": "kumar",
+      "password": "",
+      "confirmPassword": "",
+      "id": 2
+    },
+    {
+      "name": "kumar patil",
+      "email": "sagarpatil61935@gmail.com",
+      "username": "kumar",
+      "password": "",
+      "confirmPassword": "",
+      "id": 3
+    },
+    {
+      "name": "kumar patil",
+      "email": "sagarpatil61935@gmail.com",
+      "username": "kumar",
+      "password": "",
+      "confirmPassword": "",
+      "id": 4
+    },
+    {
+      "name": "kumar patil",
+      "email": "sagarpatil61935@gmail.com",
+      "username": "kumar",
+      "password": "",
+      "confirmPassword": "",
+      "id": 5
+    },
+    {
+      "name": "kumar patil",
+      "email": "sagarpatil61935@gmail.com",
+      "username": "kumar",
+      "password": "",
+      "confirmPassword": "",
+      "id": 6
+    },
+    {
+      "name": "kumar patil",
+      "email": "sagarpatil61935@gmail.com",
+      "username": "kumar",
+      "password": "",
+      "confirmPassword": "",
+      "id": 7
+    },
+    {
+      "name": "sagar",
+      "email": "",
+      "username": "",
+      "password": "",
+      "confirmPassword": "",
+      "id": 8
+    },
+    {
+      "name": "sagar",
+      "email": "",
+      "username": "",
+      "password": "",
+      "confirmPassword": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "username": "",
+      "password": "",
+      "confirmPassword": "",
+      "id": 10
+    },
+    {
+      "name": "sagar",
+      "email": "sagarpatil61935@gmail.com",
+      "username": "sagar",
+      "password": "",
+      "confirmPassword": "",
+      "id": 11
     }
   ],
   "posts": [
